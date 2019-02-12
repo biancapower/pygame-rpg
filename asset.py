@@ -3,7 +3,7 @@ import pygame
 WIDTH = 16
 HEIGHT = 16
 
-SCALE = 1
+SCALE = 2
 
 class Asset():
 
